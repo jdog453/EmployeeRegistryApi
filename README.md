@@ -8,3 +8,5 @@ I set up my visual studio to run both projects in the solution at the same time 
 I did this by selecting the startup project and selecting mutliple.
 
 If the save button on the insert and edit modals for the employee information doesn't let you submit, try deleting a number or letter in the Personal ID or email respectively. It should allow the save button to be enabled.
+
+Thank you for the opportunity!
